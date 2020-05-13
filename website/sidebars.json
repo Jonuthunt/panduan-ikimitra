@@ -1,10 +1,21 @@
 {
   "docs": {
-    "Docusaurus": ["doc1","doc9"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Pendaftaran": [
+      "download-login"
+    ],
+    "Aplikasi IKI Mitra": [
+      "tampilan-ikimitra",
+      "transfer-saldo",
+      "pendaftaran-downline",
+      "setup-fee-downline",
+      "ganti-password"
+    ],
+    "Bertransaksi di IKI Mitra": [
+      "topup-saldo",
+      "pembelian-pulsa",
+      "pembayaran-listrik",
+      "transaksi-cash-to-account",
+      "pengajuan-pinjaman"
+    ]
   }
 }

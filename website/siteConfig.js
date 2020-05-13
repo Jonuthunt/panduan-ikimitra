@@ -31,20 +31,23 @@ const siteConfig = {
   //   { page: 'help', label: 'Help' },
   //   { blog: true, label: 'Blog' },
   // ],
-  headerLinks: [
-    { doc: 'doc1', label: 'Panduan' },
-    { href: 'https://play.google.com/store/apps/details?id=id.iki.mitra', label: 'Download' },
-  ],
+
+  // headerLinks: [
+  //   { doc: 'doc1', label: 'Panduan' },
+  //   { href: 'https://iki.id', label: 'Tentang IKI' },
+  //   { href: 'https://play.google.com/store/apps/details?id=id.iki.mitra', label: 'Download' },
+  // ],
+  headerLinks: [],
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
-  footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  headerIcon: 'img/favicon.png',
+  footerIcon: 'img/favicon.png',
+  favicon: 'img/favicon.png',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#956252',
-    secondaryColor: '#684439',
+    primaryColor: '#212942',
+    secondaryColor: '#2A4696',
   },
 
   /* Custom fonts for website */

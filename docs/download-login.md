@@ -1,14 +1,12 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: download-login
+title: Cara Download IKI Mitra di PlayStore dan Login IKI Mitra untuk Mitra Usaha
+sidebar_label: Download & Login di IKI Mitra
 ---
 
-Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
+## Download Aplikasi IKI Mitra
 
-## Lorem
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
+Setelah ada kunjungan Area Leader untuk Akuisisi Mitra Usaha dan pendaftaran disetujui, pihak Mitra usaha akan mendapatkan konfirmasi SMS ke No Handphone Mitra Usaha yang berisi bahwa sudah di setujui menjadi Mitra Usaha dengan username ( No HP ), password  ( 6 digit ) untuk login ke Aplikasi Mitra Usaha.
 
 ## Mauris In Code
 

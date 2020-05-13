@@ -1,6 +1,7 @@
 ---
-id: doc9
-title: This is Doc 9
+id: pembelian-pulsa
+title: Cara Pembelian Pulsa di Aplikasi IKI Mitra
+sidebar_label: Pembelian Pulsa
 ---
 
 I can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).

@@ -1,6 +1,7 @@
 ---
-id: doc2
-title: document number 2
+id: tampilan-ikimitra
+title: Cara Baca Menu Tampilan IKI Mitra
+sidebar_label: Mengenal Aplikasi IKI Mitra
 ---
 
 This is a link to [another document.](doc3.md)  
