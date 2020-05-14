@@ -13,3 +13,16 @@ Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo 
 Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
 
 Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+
+
+<script>
+    setTimeout(()=>{
+        let list = ['fixedHeaderContainer'];
+        for (var itemClassName of list) {
+            var item = document.getElementsByClassName(itemClassName)[0]
+            item.parentNode.removeChild(item)
+        }
+        document.getElementsByClassName('navPusher')[0].style.paddingTop = 0;
+        document.getElementsByClassName('mainContainer')[0].style.paddingTop = 0;
+    }, 0)
+</script>

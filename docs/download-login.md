@@ -3,25 +3,42 @@ id: download-login
 title: Cara Download IKI Mitra di PlayStore dan Login IKI Mitra untuk Mitra Usaha
 sidebar_label: Download & Login di IKI Mitra
 ---
-
 ## Download Aplikasi IKI Mitra
 
-Setelah ada kunjungan Area Leader untuk Akuisisi Mitra Usaha dan pendaftaran disetujui, pihak Mitra usaha akan mendapatkan konfirmasi SMS ke No Handphone Mitra Usaha yang berisi bahwa sudah di setujui menjadi Mitra Usaha dengan username ( No HP ), password  ( 6 digit ) untuk login ke Aplikasi Mitra Usaha.
+Setelah ada kunjungan Area Leader untuk Akuisisi Mitra Usaha dan pendaftaran disetujui, pihak Mitra usaha akan mendapatkan konfirmasi SMS ke No Handphone Mitra Usaha yang berisi bahwa sudah di setujui menjadi Mitra Usaha dengan username (No HP), password  (6 digit) untuk login ke Aplikasi Mitra Usaha.
 
-## Mauris In Code
+Contoh SMS yang diterima Mitra Usaha sebagai berikut
+![SMS Pendaftaran IKI Mitra](assets/01-sms.png)
 
-```
-Mauris vestibulum ullamcorper nibh, ut semper purus pulvinar ut. Donec volutpat orci sit amet mauris malesuada, non pulvinar augue aliquam. Vestibulum ultricies at urna ut suscipit. Morbi iaculis, erat at imperdiet semper, ipsum nulla sodales erat, eget tincidunt justo dui quis justo. Pellentesque dictum bibendum diam at aliquet. Sed pulvinar, dolor quis finibus ornare, eros odio facilisis erat, eu rhoncus nunc dui sed ex. Nunc gravida dui massa, sed ornare arcu tincidunt sit amet. Maecenas efficitur sapien neque, a laoreet libero feugiat ut.
-```
+Cari aplikasi IKI Mitra di PlayStore atau klik [disini](https://s.id/ikimitra)
+![IKI Mitra PlayStore](assets/01-playstore.png)
 
-## Nulla
+Pilih IKI Mitra - PT Emporia Digital Raya
+![IKI Mitra PlayStore](assets/01-playstore-ikimitra.png)
 
-Nulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.
+Tekan Install untuk download Aplikasi IKI Mitra
+![Install IKI Mitra](assets/01-install.png)
 
-## Orci
+## Login di Aplikasi IKI Mitra
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin venenatis lectus dui, vel ultrices ante bibendum hendrerit. Aenean egestas feugiat dui id hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur in tellus laoreet, eleifend nunc id, viverra leo. Proin vulputate non dolor vel vulputate. Curabitur pretium lobortis felis, sit amet finibus lorem suscipit ut. Sed non mollis risus. Duis sagittis, mi in euismod tincidunt, nunc mauris vestibulum urna, at euismod est elit quis erat. Phasellus accumsan vitae neque eu placerat. In elementum arcu nec tellus imperdiet, eget maximus nulla sodales. Curabitur eu sapien eget nisl sodales fermentum.
+Setelah IKI Mitra terinstall, buka aplikasi IKI Mitra
+![Aplikasi IKI Mitra](assets/01-open.png)
 
-## Phasellus
+Masukan Username dan password yang di dapatkan dari IKI yang di kirim lewat SMS ke No HP Mitra Usaha
+![Login IKI Mitra](assets/01-login.png)
 
-Phasellus pulvinar ex id commodo imperdiet. Praesent odio nibh, sollicitudin sit amet faucibus id, placerat at metus. Donec vitae eros vitae tortor hendrerit finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae purus dolor. Duis suscipit ac nulla et finibus. Phasellus ac sem sed dui dictum gravida. Phasellus eleifend vestibulum facilisis. Integer pharetra nec enim vitae mattis. Duis auctor, lectus quis condimentum bibendum, nunc dolor aliquam massa, id bibendum orci velit quis magna. Ut volutpat nulla nunc, sed interdum magna condimentum non. Sed urna metus, scelerisque vitae consectetur a, feugiat quis magna. Donec dignissim ornare nisl, eget tempor risus malesuada quis.
+Berhasil masuk ke aplikasi IKI Mitra
+![Homepage IKI Mitra](assets/01-homepage.png)
+
+
+<script>
+    setTimeout(()=>{
+        let list = ['fixedHeaderContainer'];
+        for (var itemClassName of list) {
+            var item = document.getElementsByClassName(itemClassName)[0]
+            item.parentNode.removeChild(item)
+        }
+        document.getElementsByClassName('navPusher')[0].style.paddingTop = 0;
+        document.getElementsByClassName('mainContainer')[0].style.paddingTop = 0;
+    }, 0)
+</script>
