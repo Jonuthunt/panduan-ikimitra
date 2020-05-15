@@ -39,6 +39,5 @@ Berhasil masuk ke aplikasi IKI Mitra
             item.parentNode.removeChild(item)
         }
         document.getElementsByClassName('navPusher')[0].style.paddingTop = 0;
-        document.getElementsByClassName('mainContainer')[0].style.paddingTop = 0;
     }, 0)
 </script>

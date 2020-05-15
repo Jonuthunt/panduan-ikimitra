@@ -3,17 +3,90 @@ id: pengajuan-pinjaman
 title: Cara Pengajuan Pinjaman di Aplikasi IKI Mitra
 sidebar_label: Mengajukan Pinjaman
 ---
+### Buka Aplikasi IKI Mitra 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+![IKI Mitra](assets/11-home.png)
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+### Tekan Menu Personal Loan di IKI Mitra
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+![IKI Mitra](assets/11-iki-modal.png)
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+### Tekan Gambar + untuk mengisi Form Pinjaman
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+![IKI Mitra](assets/11-add.png)
 
+#### Form Pinjaman akan terlihat
+- Foto KTP dan Foto Selfie Peminjam dengan KTP , kemudian tekan Selanjutnya
+
+  ![IKI Mitra](assets/11-foto.png)
+- Isikan Data Peminjam 
+  - Nama Lengkap 
+  - No Handphone
+  - Email kemudian tekan selanjutnya.
+
+  ![IKI Mitra](assets/11-peminjam.png)
+- Isikan data Pinjaman 
+  - Tujuan Penggunaan
+  - Jumlah Pinjaman 
+  - Jangka waktu
+  - Frekuensi Pinjaman
+  - Hubungan dengan Peminjam
+  - Komentar, kemudian  tekan selanjutnya
+
+  ![IKI Mitra](assets/11-pinjaman.png)
+
+- Konfirmasi Pengajuan, kemudian tekan selanjutnya
+
+  ![IKI Mitra](assets/11-berhasil.png)
+
+#### Proses Pengajuan Pinjaman berhasil di proses 
+Silakan cek Handphone Peminjam akan mendapat SMS dari IKI untuk proses selanjutnya
+
+
+### Setelah mendapatkan SMS dari IKI ( CITI Call ) seperti di bawah ini silahkan di buka Link konfirmasinya
+
+![IKI Mitra](assets/11-sms.png)
+
+#### Form  Pengisian pinjaman 
+- Isikan Data Diri , kemudian tekan selanjutnya
+
+  ![IKI Mitra](assets/11-b-data.png)
+- Data NPWP apabila ada , kemudian tekan selanjutnya
+
+  ![IKI Mitra](assets/11-b-npwp.png)
+- Data Alamat KTP,  kemudian tekan selanjutnya
+
+  ![IKI Mitra](assets/11-b-alamat.png)
+- Data Alamat Domisili , kemudian tekan selanjutnya
+
+  ![IKI Mitra](assets/11-b-domisili.png)
+- Data Info Bank , kemudian tekan selanjutnya
+
+  ![IKI Mitra](assets/11-b-bank.png)
+- Data Info Pekerjaan , kemudian tekan selanjutnya
+
+  ![IKI Mitra](assets/11-b-pekerjaan.png)
+- Data Kontak Darurat kemudian tekan selanjutnya
+
+  ![IKI Mitra](assets/11-b-emcon.png)
+- Buat Akun,  kemudian tekan selanjutnya
+
+  ![IKI Mitra](assets/11-b-account.png)
+#### Pembuatan Akun Berhasil
+![IKI Mitra](assets/11-b-account-ok.png)
+
+### Langkah selanjutnya hubungi Kontak darurat untuk mengecek SMS dari IKI ( CITI Call )mengenai konfirmasi
+
+### Setelah mendapatkan SMS dari IKI ( CITI Call ) seperti di bawah ini silahkan di buka Link konfirmasinya
+![IKI Mitra](assets/11-c-sms.png)
+
+#### Pengisian Persetujuan Kontak Darurat Kemudian Kirim
+![IKI Mitra](assets/11-c-emcon.png)
+
+#### Persetujuan Kontak Darurat telah di setujui dan proses Pengajuan Pinjaman sudah selesai
+![IKI Mitra](assets/11-c-sukses.png)
+
+### Estimasi Proses pengajuan sampai dana cair kurang lebih 5 hari.
 
 <script>
     setTimeout(()=>{
@@ -23,6 +96,5 @@ Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl.
             item.parentNode.removeChild(item)
         }
         document.getElementsByClassName('navPusher')[0].style.paddingTop = 0;
-        document.getElementsByClassName('mainContainer')[0].style.paddingTop = 0;
     }, 0)
 </script>

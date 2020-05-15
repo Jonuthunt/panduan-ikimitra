@@ -3,19 +3,31 @@ id: pendaftaran-downline
 title: Cara Mendaftarkan Downline Mitra Usaha
 sidebar_label: Mendaftarkan Downline
 ---
+## Buka Aplikasi IKI Mitra
 
-I can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![IKI Mitra](assets/04-home.png)
 
-## Markdown Syntax
+## Tekan gambar Profile
 
-**Bold** _italic_ `code` [Links](#url)
+![IKI Mitra](assets/04-profile.png)
 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+## Tekan Downline, masukkan nama dan No HP Downline
 
-* Hey
-* Ho
-* Let's Go
+![IKI Mitra](assets/04-add-downline.png)
+
+## Tekan Simpan 
+
+![IKI Mitra](assets/04-simpan.png)
+
+## Penambahan Downline berhasil
+
+![IKI Mitra](assets/04-list-downline.png)
+
+## Downline akan mendapatkan SMS dari IKI yang berisi Username (No HP) dan Password (6 Digit) 
+
+Contoh SMS sebagai berikut 
+
+```Selamat bergabung sebagai Mitra Usaha IKI. Silakan login dengan user 081234567890 dan pass 123456. Silakan unduh IKI Mitra di s.id/ikimitra```
 
 <script>
     setTimeout(()=>{
@@ -25,6 +37,5 @@ I can write content using [GitHub-flavored Markdown syntax](https://github.githu
             item.parentNode.removeChild(item)
         }
         document.getElementsByClassName('navPusher')[0].style.paddingTop = 0;
-        document.getElementsByClassName('mainContainer')[0].style.paddingTop = 0;
     }, 0)
 </script>
