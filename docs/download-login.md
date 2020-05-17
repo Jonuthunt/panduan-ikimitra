@@ -3,7 +3,7 @@ id: download-login
 title: Cara Download IKI Mitra di PlayStore dan Login IKI Mitra untuk Mitra Usaha
 sidebar_label: Download & Login di IKI Mitra
 ---
-## Download Aplikasi IKI Mitra
+### Download Aplikasi IKI Mitra
 
 Setelah ada kunjungan Area Leader untuk Akuisisi Mitra Usaha dan pendaftaran disetujui, pihak Mitra usaha akan mendapatkan konfirmasi SMS ke No Handphone Mitra Usaha yang berisi bahwa sudah di setujui menjadi Mitra Usaha dengan username (No HP), password  (6 digit) untuk login ke Aplikasi Mitra Usaha.
 
@@ -19,7 +19,7 @@ Pilih IKI Mitra - PT Emporia Digital Raya
 Tekan Install untuk download Aplikasi IKI Mitra
 ![Install IKI Mitra](assets/01-install.png)
 
-## Login di Aplikasi IKI Mitra
+### Login di Aplikasi IKI Mitra
 
 Setelah IKI Mitra terinstall, buka aplikasi IKI Mitra
 ![Aplikasi IKI Mitra](assets/01-open.png)

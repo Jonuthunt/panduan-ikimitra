@@ -3,27 +3,27 @@ id: ganti-password
 title: Cara Ganti Password IKI Mitra
 sidebar_label: Ganti Password IKI Mitra
 ---
-## Buka Aplikasi IKI Mitra
+### Buka Aplikasi IKI Mitra
 
 ![IKI Mitra](assets/06-home.png)
 
-## Tekan gambar Profile
+### Tekan gambar Profile
 
 ![IKI Mitra](assets/06-profile.png)
 
-## Tekan Ganti Password
+### Tekan Ganti Password
 
 ![IKI Mitra](assets/06-ganti-password.png)
 
-## Tuliskan Password Lama , Password baru dan Ulangi Password Baru
+### Tuliskan Password Lama , Password baru dan Ulangi Password Baru
 
 ![IKI Mitra](assets/06-input-password.png)
 
-## Tekan Ganti Password 
+### Tekan Ganti Password 
 
 ![IKI Mitra](assets/06-simpan.png)
 
-## Ganti password IKI Mitra berhasil
+### Ganti password IKI Mitra berhasil
 
 <script>
     setTimeout(()=>{

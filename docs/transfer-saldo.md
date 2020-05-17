@@ -3,27 +3,27 @@ id: transfer-saldo
 title: Panduan Transfer Antar Mitra Usaha di Aplikasi IKI Mitra
 sidebar_label: Transfer Antar Mitra Usaha
 ---
-## Buka Aplikasi IKI Mitra, kemudian tekan Transfer
+### Buka Aplikasi IKI Mitra, kemudian tekan Transfer
 
 ![IKI Mitra](assets/03-home.png)
 
-## Tuliskan Nomor HP Tujuan, Jumlah Transfer dan Keterangan
+### Tuliskan Nomor HP Tujuan, Jumlah Transfer dan Keterangan
 
 ![IKI Mitra](assets/03-input.png)
 
-## Tekan INQUIRY , kemudian akan terlihat Tujuan Transfer , ID Mitra , No HP dan nominal transfer 
+### Tekan INQUIRY , kemudian akan terlihat Tujuan Transfer , ID Mitra , No HP dan nominal transfer 
 
 ![IKI Mitra](assets/03-inquiry.png)
 
-## Tekan Transfer, kemudian akan muncul notifikasi "Lakukan Transfer"
+### Tekan Transfer, kemudian akan muncul notifikasi "Lakukan Transfer"
 
 ![IKI Mitra](assets/03-transfer.png)
 
-## Tekan Ya untuk melakukan transfer
+### Tekan Ya untuk melakukan transfer
 
 ![IKI Mitra](assets/03-konfirmasi.png)
 
-## Transaksi Transfer berhasil
+### Transaksi Transfer berhasil
 
 ![IKI Mitra](assets/03-berhasil.png)
 

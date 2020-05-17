@@ -3,10 +3,10 @@ id: tampilan-ikimitra
 title: Cara Baca Menu Tampilan IKI Mitra
 sidebar_label: Mengenal Aplikasi IKI Mitra
 ---
-## Menu Home IKI Mitra untuk Mitra Usaha
+### Menu Home IKI Mitra untuk Mitra Usaha
 ![IKI Mitra](assets/02-home.png)
 
-## Menu PPOB di IKI Mitra
+### Menu PPOB di IKI Mitra
 Untuk saat ini ada ada 2 produk PPOB yang tersedia di IKI Mitra, yaitu:
 1.	PLN yaitu  pembayaran
     - PLNPOSTPAID (Tagihan Bulanan)
@@ -23,19 +23,19 @@ Untuk saat ini ada ada 2 produk PPOB yang tersedia di IKI Mitra, yaitu:
 
 ![IKI Mitra](assets/02-ppob.png)
 
-## Menu Cash To Account (Transfer Bank Dalam Negeri)
+### Menu Cash To Account (Transfer Bank Dalam Negeri)
 Transfer C2A ( Cash To Account )  adalah Fasilitas Layanan Pengiriman Uang secara Tunai  ke Rekening Bank Lain secara Realtime.
 ![IKI Mitra](assets/02-c2a.png)
 
-## Menu Personal Loan
+### Menu Personal Loan
 Personal Loan adalah Fasilitas Layanan Pinjaman  Uang  Tunai yang diperuntukkan untuk Mitra Usaha dan Personal
 ![IKI Mitra](assets/02-personal-loan.png)
 
-## Menu Laporan 
+### Menu Laporan 
 Menu untuk melihat Status Transaksi dari Mitra Usaha
 ![IKI Mitra](assets/02-laporan.png)
 
-## Menu Profil
+### Menu Profil
 ![IKI Mitra](assets/02-profile.png)
 
 Akan Muncul menu Profil Berikut
