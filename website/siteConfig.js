@@ -12,13 +12,15 @@ const siteConfig = {
   title: 'Panduan IKI Mitra', // Title for your website.
   tagline: 'Panduan Penggunaan IKI Mitra',
   url: 'https://marengga.github.io', // Your website URL
-  baseUrl: '/panduan-ikimitra/', // Base URL for your project */
+  // baseUrl: '/panduan-ikimitra/', // Base URL for your project */
+  baseUrl: '/',
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'panduan-ikimitra',
+  // projectName: 'panduan-ikimitra',
+  projectName: '',
   organizationName: 'marengga',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
